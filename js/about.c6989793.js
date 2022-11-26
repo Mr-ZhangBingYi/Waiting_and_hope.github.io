@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwaiting_and_hope"]=self["webpackChunkwaiting_and_hope"]||[]).push([[443],{9879:function(n,e,l){l.r(e);var u,a,t=l(1001),i={},p=(0,t.Z)(i,u,a,!1,null,null,null);e["default"]=p.exports}}]);
+//# sourceMappingURL=about.c6989793.js.map
